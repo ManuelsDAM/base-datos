@@ -1,2 +1,2 @@
-# base-datos
-Repositorio para la asignatura de Base de Datos, Desarrollo de Aplicaciones Web
+# Repositorio de prácticas de Bases de Datos
+Descripción del repositorio para la asignatura de Base de Datos, Desarrollo de Aplicaciones Web
