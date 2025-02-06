@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Code, Learn & Practice(E/R: Practica los tipos de relaciones)
+# Unidad 2 Tarea 3: Entidad/Relación y Modelo Relacional
 
 **Ejercicio 1:**  
 
@@ -241,5 +241,5 @@ En un sistema de ventas, cada factura está asociada a un cliente y un producto,
 <img src="../tarea-3/imágenes/relaciones-simples.drawio.png">
 </details>
 
-@ManuelsDAM :shipit:
+@ManuelsDAM :shipit: :tm: :goberserk:
 </div>

@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Code, Learn & Practice(E/R: Ejercicios básicos de E/R)
+# Ejercicios Unidad 2 Tarea 1: Entidad/relación
 
 ## Descripción
 
@@ -99,5 +99,5 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
 <details open>
 <img src="imágenes/ejercicio9.drawio.png">
 </details>
-  
+  :tm: :recycle: :goberserk:
  </div>

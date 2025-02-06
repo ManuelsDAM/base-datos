@@ -1,6 +1,6 @@
 <div align="justify">
 
-#  Code, Learn & Practice(E/R: Sistema de Ventas)
+#  Unidad 2 Tarea 2: Modelo Entidad/Relación
 
 
 
@@ -16,9 +16,12 @@ Se desea realizar una BD que permita apoyar la gestión de un sistema de ventas.
 <details open>
     
     
+<img src="imágenes/ejerciciorrss.drawio.png">
+</br>
+
 <img src="imágenes/ejercicio-final.drawio.png">
 
 </details>
 
-
+ :recycle: :goberserk: :tm:
 </div>
