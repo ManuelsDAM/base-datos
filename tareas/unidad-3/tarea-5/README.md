@@ -15,7 +15,7 @@ Por último se quiere almacenar, en la base de datos, los datos de los president
 
 <details open>
     <summary>Solución del modelo relacional</summary>
-  <img src="imágenes/tarea4.drawio.png">
+  <img src="imágenes/tarea5.drawio.png">
   </details>
 
 :tm: :shipit: :recycle: :goberserk:
