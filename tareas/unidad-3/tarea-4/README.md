@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Tarea 4 de la unidad 2
+# Unidad 2: Tarea 4
 
 Diseña el modelo entidad-relación
 La liga de fútbol profesional ha decidido informatizar sus instalaciones creando una base de datos para guardar la información de los partidos que se juegan en la liga.
@@ -14,7 +14,7 @@ También se quiere llevar un recuento de los goles que hay en cada partido. Se q
 Por último se quiere almacenar, en la base de datos, los datos de los presidentes de los equipos de fútbol (dni, nombre, apellidos, fecha de nacimiento, equipo del que es presidente y año en el que fue elegido presidente). Un equipo de fútbol tan sólo puede tener un presidente, y una persona sólo puede ser presidente de un equipo de la liga.
 
 <details open>
-    <summary>MODELO ER</summary>
+    <summary>Solución E/R</summary>
   <img src="imágenes/tarea4.drawio.png">
   </details>
 :tm: :shipit: :recycle: :goberserk:
