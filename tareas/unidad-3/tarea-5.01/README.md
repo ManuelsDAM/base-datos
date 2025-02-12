@@ -12,11 +12,11 @@ Una empresa necesita organizar la siguiente información referente a su organiza
 
 <details open>
 <summary>Modelo E/R</summary>
-  <img src="imágenes/tarea6ER.drawio.png">
+  <img src="imágenes/tarea5.1ER.drawio.png">
   </details>
   <details open>
 <summary>Modelo relacional</summary>
-  <img src="imágenes/tarea6.drawio.png">
+  <img src="imágenes/tarea5.1.drawio.png">
   </details>
 :tm: :shipit: :recycle: :goberserk:
 </div>
