@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Unidad 2: Tarea 4
+# Unidad 2/3: Tarea 4
 
 Diseña el modelo entidad-relación
 La liga de fútbol profesional ha decidido informatizar sus instalaciones creando una base de datos para guardar la información de los partidos que se juegan en la liga.
