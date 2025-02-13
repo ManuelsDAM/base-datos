@@ -15,6 +15,8 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
   <details open>
   <img src="imágenes/ejercicio1.drawio.png">
   </details>
+  
+---
 
 ### Ejercicio 2
 
@@ -27,6 +29,8 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
   
   </details>
 
+---
+
 ### Ejercicio 3
 
 - En un comercio, un cliente compra varios productos, y un producto puede ser comprado por varios clientes.
@@ -38,6 +42,8 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
   
   </details>
 
+---
+
 ### Ejercicio 4
 
 - Representa la relación entre Personas y sus padres.
@@ -48,6 +54,8 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
   <img src="imágenes/ejercicio4.drawio.png">
   </details>
 
+---
+
 ### Ejercicio 5
 
 - En una carrera de relevos, representar la relación dar el relevo entre atletas(para calcular las cardinalidades máxima y mínima deberás tener en cuenta si se trata de el primero, el último o el 2º o 3º).
@@ -57,7 +65,9 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
 <details open>
  <img src="imágenes/ejercicio5.drawio.png">
  </details>
-  
+
+---
+
 ### Ejercicio 6
 
 - Una empresa está compuesta por varios departamentos de los que se desea almacenar su nº, nombre y localidad. - Los empleados deben estar asignados a un departamento y se guardarán sus datos nºempleado, apellido, salario. Además, cada empleado tiene un jefe.
@@ -70,6 +80,8 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
  <img src="imágenes/ejercicio6.drawio.png">
  </details>
 
+---
+
 ### Ejercicio 7
 
 - Se desea construir una bd para mantener información sobre los equipos y partidos de la liga. - Un equipo tiene un cierto nº de jugadores (Id_jugador, datos personales) y no todos participan en cada partido. Queremos registrar además por cada partido, qué jugadores juegan, la fecha y la hora del partido, resultados de los encuentros y las posiciones donde juegan.
@@ -79,7 +91,9 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
 <details open>
 <img src="imágenes/ejercicio7.drawio.png">
 </details>
-  
+
+---
+
 ### Ejercicio 8
 
 - En una empresa, para cada uno de sus empleados, se guardan los datos de sus hijos. Representa esta relación haciendo las suposiciones que creas convenientes.
@@ -89,6 +103,8 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
 <details open>
 <img src="imágenes/ejercicio8.drawio.png">
 </details>
+
+---
 
 ### Ejercicio 9
 
