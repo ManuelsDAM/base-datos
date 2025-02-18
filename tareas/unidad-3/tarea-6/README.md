@@ -127,10 +127,10 @@ Generamos las diferentes tablas para el modelo.
 |1           | 1               |
 |2           | 2               |
 
-|ID_Empleado | Departamento |
-|------------|--------------|
-|1           | Ventas       |
-|2           | Finanzas     |
+|ID_Departamento | Departamento |
+|----------------|--------------|
+|1               | Ventas       |
+|2               | Finanzas     |
 
 > Verifica generando el modelo Entidad/Relación
 <details open>
