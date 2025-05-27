@@ -93,6 +93,8 @@ También podemos acceder a través del navegador. Para ello utilizaremos **Admin
 
 ```sql
  select * from matriculas;
+ ```
+ ```console
 +----+---------------+----------+------------+
 | id | estudiante_id | curso_id | fecha      |
 +----+---------------+----------+------------+
