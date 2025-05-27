@@ -92,44 +92,51 @@ También podemos acceder a través del navegador. Para ello utilizaremos **Admin
 1. Mostrar las columnas de la tabla `estudiantes`.
 
 ```sql
-Describe estudiantes;
-+--------+--------------+------+-----+---------+-------+
-| Field  | Type         | Null | Key | Default | Extra |
-+--------+--------------+------+-----+---------+-------+
-| id     | int          | NO   | PRI | NULL    |       |
-| nombre | varchar(100) | YES  |     | NULL    |       |
-| email  | varchar(100) | YES  |     | NULL    |       |
-| ciudad | varchar(50)  | YES  |     | NULL    |       |
-+--------+--------------+------+-----+---------+-------+
+ select * from matriculas;
++----+---------------+----------+------------+
+| id | estudiante_id | curso_id | fecha      |
++----+---------------+----------+------------+
+|  1 |             1 |        1 | 2021-09-01 |
+|  2 |             2 |        2 | 2022-09-01 |
+|  3 |             3 |        3 | 2023-09-02 |
+|  4 |             4 |        4 | 2024-09-03 |
+|  5 |             1 |        5 | 2020-09-04 |
+|  6 |             2 |        4 | 2022-09-05 |
+|  7 |             3 |        1 | 2023-09-06 |
+|  8 |             4 |        2 | 2024-09-06 |
++----+---------------+----------+------------+
 
 ```
 
 2. Mostrar las columnas de la tabla `cursos`.
 
 ```sql
-describe cursos;
-+--------+--------------+------+-----+---------+-------+
-| Field  | Type         | Null | Key | Default | Extra |
-+--------+--------------+------+-----+---------+-------+
-| id     | int          | NO   | PRI | NULL    |       |
-| nombre | varchar(100) | YES  |     | NULL    |       |
-| email  | varchar(100) | YES  |     | NULL    |       |
-| ciudad | varchar(50)  | YES  |     | NULL    |       |
-+--------+--------------+------+-----+---------+-------+
+select * from cursos;
++----+----------------------+-------------+----------+
+| id | nombre               | profesor_id | creditos |
++----+----------------------+-------------+----------+
+|  1 | Álgebra Lineal      |           1 |        6 |
+|  2 | Programación I      |           2 |        5 |
+|  3 | Mecánica Clásica   |           3 |        6 |
+|  4 | Estructuras de Datos |           2 |        5 |
+|  5 | Cálculo I           |           1 |        6 |
++----+----------------------+-------------+----------+
+
 ```
 
 3. Mostrar las columnas de la tabla `matriculas`.
 
 ```sql
-describe matriculas;
-+--------+--------------+------+-----+---------+-------+
-| Field  | Type         | Null | Key | Default | Extra |
-+--------+--------------+------+-----+---------+-------+
-| id     | int          | NO   | PRI | NULL    |       |
-| nombre | varchar(100) | YES  |     | NULL    |       |
-| email  | varchar(100) | YES  |     | NULL    |       |
-| ciudad | varchar(50)  | YES  |     | NULL    |       |
-+--------+--------------+------+-----+---------+-------+
+select * from estudiantes;
++----+-------------------+----------------+-----------+
+| id | nombre            | email          | ciudad    |
++----+-------------------+----------------+-----------+
+|  1 | María López     | maria@uni.edu  | Madrid    |
+|  2 | Juan Pérez       | juan@uni.edu   | Barcelona |
+|  3 | Lucía Fernández | lucia@uni.edu  | Valencia  |
+|  4 | Carlos Ruiz       | carlos@uni.edu | Sevilla   |
++----+-------------------+----------------+-----------+
+
 ```
 
 ---
@@ -139,6 +146,7 @@ describe matriculas;
 4. Mostrar cada estudiante con la cantidad de cursos en los que está matriculado.
 
 ```sql
+Un cambio aquí
 
 ```
 
