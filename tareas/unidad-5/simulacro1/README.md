@@ -14,6 +14,7 @@ Simulacro de examen se provee de los siguientes ficheros:
 Se debe de entregar el fichero XX_consultas_multitabla.sql con el nombre y apellidos correspondiente de cada alumno.
 
 ## Veo las columnas de cada tabla
+ ```sql
 
 select * from consumidor;
 +----+-----------+-----------+-----------+---------+-----------+
@@ -68,6 +69,7 @@ mysql> select * from compra;
 | 15 |  370.85 | 2022-03-11 |             1 |                5 |
 | 16 | 2389.23 | 2022-03-11 |             1 |                5 |
 +----+---------+------------+---------------+------------------+
+```
 
 1. Devuelve un listado con todos las compras que se han realizado. Las compras deben estar ordenados
 
