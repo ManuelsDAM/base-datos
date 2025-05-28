@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: examen-bd
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+      MYSQL_DATABASE: examen2025  # nombre de la base de datos que se creará automáticamente
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./docker-init:/docker-entrypoint-initdb.d
